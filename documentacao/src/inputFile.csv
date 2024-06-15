@@ -1,0 +1,15 @@
+preco,ano,km,transmissao,portas,acidentes,comprar
+21,2014,135,manual,4,Nao,Sim
+65,2022,40,auto,4,Nao,Nao
+30,2018,51,manual,2,Sim,Nao
+18,2013,95,manual,4,Nao,Sim
+17,2015,75,auto,4,Sim,Sim
+28,2016,60,manual,2,Nao,Sim
+35,2017,290,auto,4,Nao,Nao
+15,2012,60,manual,4,Sim,Sim
+35,2019,30,auto,4,Nao,Sim
+32,2017,80,manual,2,Sim,Nao
+27,2016,411,auto,4,Nao,Nao
+20,2014,110,manual,4,Sim,Sim
+56,2020,45,auto,4,Nao,Nao
+12,2015,85,manual,2,Sim,Sim
