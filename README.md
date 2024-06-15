@@ -1,4 +1,4 @@
-![tree](https://github.com/DavilaGustavo/decisionTreesPY/assets/106328212/fc21213f-95af-4d13-9e7d-a68b26bd3727)
+![tree](https://github.com/DavilaGustavo/decisionTreesPY/assets/106328212/9360e9e1-7c87-4429-93f4-4082d2fa246f)
 
 # Árvore de Decisões
 Este projeto implementa algoritmos de aprendizado de máquina, especificamente Árvore de Decisões e Random Forest, para prever se um carro usado deve ser comprado ou não com base em diversas características. O objetivo é criar modelos que possam ajudar na tomada de decisão de compra de carros usados, usando dados históricos sobre preços, ano de fabricação, quilometragem, tipo de transmissão, número de portas e histórico de acidentes.
@@ -26,7 +26,7 @@ Este projeto implementa algoritmos de aprendizado de máquina, especificamente �
 ## Como Usar
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências necessárias listadas no arquivo requirements.txt.
-3. Execute o notebook notebook.ipynb para explorar o código e resultados.
+3. Execute o .ipynb para explorar o código e resultados.
 4. Sinta-se à vontade para modificar e experimentar com diferentes parâmetros de modelo ou novos conjuntos de dados.
 
 ## Contribuições
